@@ -1,0 +1,6 @@
+{
+  "name": "Gracefull Grinds LLC",
+  "description": "Custom landscaping, landscape maintenance, tree trimming, and hardscaping services in Madisonville, Kentucky. Request a free quote from Gracefull Grinds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
